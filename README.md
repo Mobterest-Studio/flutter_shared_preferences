@@ -4,4 +4,4 @@
 
 Built with [Dart](https://dart.dev/) :star2:
 
-[![Watch the Full Tutorial](shared_preferences.png)](https://www.youtube.com/playlist?list=PLKKf8l1ne4_jcOLfnDey75NJsI7KAi8Wx)
+[![Watch the Full Tutorial](shared_preferences.png)](https://youtu.be/S4ibMiYhvtI?si=0pngWE0gjIMun_jG)
